@@ -1,3 +1,3 @@
-rsync -rzvh --progress liusf@scopion.phys.nthu.edu.tw:/home/liusf/tSDRG/Sorting_data/Spin1/metadata/* ./Spin1_new/metadata/
+rsync -rzvh --progress liusf@scopion.phys.nthu.edu.tw:/home/liusf/tSDRG/Sorting_data/Spin1/metadata/* ./Spin1/metadata/
 
 
